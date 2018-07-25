@@ -22,6 +22,7 @@ public class myFirstStepDef extends DriverFactory
 	
 	//GetDriver().get("https://www.facebook.com/");
 	Driver.get("https://www.facebook.com/");
+	System.out.println("login");
 	
 }
 	
