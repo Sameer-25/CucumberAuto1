@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "CucumberAuto1">
+	<test name="CucumberAuto1 Test" junit="true">
+		<classes>
+			<class name="CucumberAuto1.sample.RunMyFirstFeature"/>
+		</classes>
+	</test>
+</suite>
